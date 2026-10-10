@@ -84,7 +84,7 @@ The system calculates each member's net balance and simplifies debts to reduce u
 
 Members can record payments between users to settle outstanding balances.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python** — Backend
 - **FastAPI** — REST API
@@ -97,7 +97,7 @@ Members can record payments between users to settle outstanding balances.
 - **Pytest** — Testing
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 SplitSync/
@@ -159,7 +159,7 @@ SplitSync/
 ├── README.md
 └── requirements.txt
 ```
-## ⚙️ Setup
+## Setup
 
 ### 1. Clone the repository
 
